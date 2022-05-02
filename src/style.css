@@ -40,6 +40,11 @@ body {
   display: none;
 }
 
+.task-status:checked + p {
+  text-decoration: line-through;
+  color: red;
+}
+
 .entry-line {
   display: flex;
   background-color: var(--whiteProto);
