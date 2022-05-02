@@ -1,5 +1,6 @@
 # Todo list app
 
+>This repo is created for the purpose of practicing peer review.
 > A Javascript to do list web app that keep track of actions or todos.
 
 ## Built With
